@@ -1,0 +1,10 @@
+{"debug":"Calling MCP tool: create_apps","timestamp":"2026-02-20T08:39:13.479Z","sessionId":"7d33bb41-b673-407b-a816-10e5db15bd31","cwd":"/home/user/app"}
+{"debug":"Tool 'create_apps' completed successfully in 2s","timestamp":"2026-02-20T08:39:15.807Z","sessionId":"7d33bb41-b673-407b-a816-10e5db15bd31","cwd":"/home/user/app"}
+{"debug":"Calling MCP tool: generate_typescript","timestamp":"2026-02-20T08:39:34.184Z","sessionId":"7d33bb41-b673-407b-a816-10e5db15bd31","cwd":"/home/user/app"}
+{"debug":"Tool 'generate_typescript' completed successfully in 9ms","timestamp":"2026-02-20T08:39:34.193Z","sessionId":"7d33bb41-b673-407b-a816-10e5db15bd31","cwd":"/home/user/app"}
+{"debug":"Calling MCP tool: generate_typescript","timestamp":"2026-02-20T08:39:48.573Z","sessionId":"7d33bb41-b673-407b-a816-10e5db15bd31","cwd":"/home/user/app"}
+{"debug":"Tool 'generate_typescript' completed successfully in 7ms","timestamp":"2026-02-20T08:39:48.580Z","sessionId":"7d33bb41-b673-407b-a816-10e5db15bd31","cwd":"/home/user/app"}
+{"debug":"Calling MCP tool: generate_typescript","timestamp":"2026-02-20T08:39:50.856Z","sessionId":"7d33bb41-b673-407b-a816-10e5db15bd31","cwd":"/home/user/app"}
+{"debug":"Tool 'generate_typescript' completed successfully in 3ms","timestamp":"2026-02-20T08:39:50.859Z","sessionId":"7d33bb41-b673-407b-a816-10e5db15bd31","cwd":"/home/user/app"}
+{"debug":"Calling MCP tool: generate_typescript","timestamp":"2026-02-20T08:40:26.835Z","sessionId":"7d33bb41-b673-407b-a816-10e5db15bd31","cwd":"/home/user/app"}
+{"debug":"Tool 'generate_typescript' completed successfully in 20ms","timestamp":"2026-02-20T08:40:26.855Z","sessionId":"7d33bb41-b673-407b-a816-10e5db15bd31","cwd":"/home/user/app"}
